@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Maps/TestEnviornment.umap",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Inputs/Mapping_Player.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Inputs/Input_Movement.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Inputs/Input_Look.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Inputs/Input_Jump.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Inputs/Input_Interact.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Player/BP_PlayerCont.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Player/BP_Player.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interfaces/Interface_Interact.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/Interact.uasset"
+			]
+		}
+	]
+}
