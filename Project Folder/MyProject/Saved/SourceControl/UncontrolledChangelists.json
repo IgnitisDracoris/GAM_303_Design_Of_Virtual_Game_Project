@@ -16,7 +16,8 @@
 				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interfaces/Interface_Interact.uasset",
 				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/Interact.uasset",
 				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/BP_Collectable_Pickup.uasset",
-				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/BP_PhysicsPickup.uasset"
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/BP_PhysicsPickup.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Player/BG_GameMode.uasset"
 			]
 		}
 	]
