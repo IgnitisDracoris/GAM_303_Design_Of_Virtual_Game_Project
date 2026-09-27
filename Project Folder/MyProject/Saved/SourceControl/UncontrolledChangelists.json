@@ -17,6 +17,10 @@
 				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/AnimatedInteractables/BP_Door.uasset",
 				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Enemy/Turret/BP_Turret.uasset",
 				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Enemy/Turret/BP_TurretProjectile.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/AnimatedInteractables/BP_Button.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/AnimatedInteractables/MAT_Color.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/BP_PhysicsPickup.uasset",
+				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Enemy/Turret/BP_TurrentMat.uasset",
 				"D:/SNHU/Design of Virtual Game/Cruz_303/Project Folder/MyProject/Content/Interactables/Interact.uasset"
 			]
 		}
